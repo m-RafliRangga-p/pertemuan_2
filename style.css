@@ -1,0 +1,86 @@
+body{
+    background-color: #0088FF;
+}
+
+div.content{
+    width: 40%;
+    height: 100%;
+    margin: 0 auto 0 auto;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+.header{
+    -webkit-text-stroke: 0.7px #0088FF;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+div.tabel{
+    margin: 0 auto 0 auto;
+}
+
+div.formulir{
+    margin: 0 auto 0 auto;
+    border: 2px solid black;
+    width: 89%;
+    height: auto;
+}
+
+.tabel{
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0 auto 0 auto;
+}
+
+#tbJdl {
+    text-align: center;
+    font-weight: bold;
+    background-color: #88FF00;
+    color: #FF0088;
+}
+
+table.tabel, td.tabel{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.tabel .Kiri{
+    border-right: none;
+}
+
+.tabel .noKaKi{
+    border-left: none;
+    border-right: none;
+}
+
+.tabel .noKi{
+    border-left: none;
+}
+
+.forBorder{
+    border: 2px solid black;
+}
+
+.formulir{
+    margin: 0 auto 0 auto;
+}
+
+.ket{
+    font-weight: bold;
+    text-align: center;
+}
+
+span.formulir-tab{
+    tab-size: 2;
+}
+
+button{
+    background-color: #333333;
+    color: #88FF00;
+    border: 3px solid #88FF00;
+    font-weight: bold;
+    height: 23px;
+    width: auto;
+}
